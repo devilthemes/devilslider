@@ -209,6 +209,7 @@ class devilslider extends Module
 
 		/* Begin fieldset slider */
 		$this->_html .= '
+		<iframe src="http://www.devilthemes.com/ads/index.html" width="100%" height="80" frameborder="0"></iframe>
 		<fieldset>
 			<legend><img src="'._PS_BASE_URL_.__PS_BASE_URI__.'modules/'.$this->name.'/logo.gif" alt="" /> '.$this->l('Slider configuration').'</legend>';
 		/* Begin form */
